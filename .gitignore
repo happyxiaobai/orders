@@ -1,0 +1,23 @@
+# MATLAB/Simulink
+*.asv
+*.autosave
+*.bak
+*.mex*
+*.mlappinstall
+*.prj
+*.slxc
+*.sldd
+*.slx.original
+*.SimulinkProject # If using Simulink Project Tool
+*codegen/
+*slprj/
+*slxprd/
+*.mat # 如果 .mat 文件是结果或临时数据，而不是必需的输入数据
+*.fig # 如果 .fig 文件很大或可以从代码生成
+
+# Generated files
+*.log
+*.tmp
+
+# Personal settings (if applicable)
+# MATLAB_Editor_State.xml
